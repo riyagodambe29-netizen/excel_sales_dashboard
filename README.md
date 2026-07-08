@@ -17,7 +17,7 @@ An interactive **Sales Dashboard** built in **Microsoft Excel** to analyze sales
 
 > Watch the dashboard in action.
 
-<img width="1724" height="912" alt="image" src="https://github.com/user-attachments/assets/82539abd-f71b-4036-b7dc-ed4dde140ad1" />
+<
 
 ---
 
@@ -114,5 +114,5 @@ If you found this project helpful, please consider ⭐ **starring** this reposit
 
 ## 📧 Connect with Me
 
-- **LinkedIn:** linkedin.com/in/riya-godambe-a3190839b
+- **LinkedIn:**linkedin.com/in/riya-godambe-a3190839b
 - **GitHub:** https://github.com/riyagodambe29-netizen/excel-sales-dashboard
