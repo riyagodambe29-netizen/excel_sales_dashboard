@@ -1,4 +1,4 @@
-My 1st 📊 #Excel Sales Dashboard
+# 📊 #Excel Sales Dashboard
 
 An interactive **Sales Dashboard** built in **Microsoft Excel** to analyze sales performance using a sample dataset of **500 sales employees**. The dashboard provides meaningful business insights through dynamic charts, Pivot Tables, Pivot Charts, and Slicers.
 
