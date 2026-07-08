@@ -9,6 +9,8 @@ An interactive **Sales Dashboard** built in **Microsoft Excel** to analyze sales
 > Add a screenshot of your dashboard here.
 
 <img width="1600" height="708" alt="image" src="https://github.com/user-attachments/assets/ffd034e6-f078-41ff-a474-b68bb8a6b075" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/1cc26b36-ee5e-4cf8-83e1-c19926dac0bc" />
+
 
 
 ---
@@ -17,7 +19,7 @@ An interactive **Sales Dashboard** built in **Microsoft Excel** to analyze sales
 
 > Watch the dashboard in action.
 
-<
+<working vid.mp4
 
 ---
 
